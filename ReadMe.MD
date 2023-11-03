@@ -24,6 +24,14 @@ A simple web application that takes the base and exponent numbers and finds the 
 
 ![deploy_app.png](deploy_app.png)
 
+4. Create a Lambda function called powerOfNumbers
+
+    - paste the python code (powerOfNumbers.py) to the code part like below
+
+      - ![powerOfNumbers.png](powerOfNumbers.png) 
+
+
+
 ### Resources
 
 1. [AWS Project - Architect and Build an End-to-End AWS Web Application from Scratch, Step by Step - Tiny Technical Tutorials](https://www.youtube.com/watch?v=7m_q1ldzw0U)
