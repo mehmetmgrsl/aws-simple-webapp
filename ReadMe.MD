@@ -14,7 +14,15 @@ A simple web application that takes the base and exponent numbers and finds the 
 
 - **AWS IAM**:  Manage identities and access to AWS services and resources
 
+### How to
 
+1. Create a web page (check the index.html)
+
+2. Create a zip file of the index.html
+
+3. Deploy the zip file (index.zip) using AWS amplify
+
+![deploy_app.png](deploy_app.png)
 
 ### Resources
 
