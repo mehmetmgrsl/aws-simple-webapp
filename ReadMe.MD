@@ -42,7 +42,19 @@ A simple web application that takes the base and exponent numbers and finds the 
 
   - Finally Deploy the API.
    
+6. Save the result into the DynamoDB 
 
+  - Create a Table
+
+    - ![createTable.png](createTable.png)
+
+    - Give permission to Lambda function to be able to write/delete/read/update data to DynamoDB:
+
+       - ![permissionToWriteDynamoDB.png](permissionToWriteDynamoDB.png)
+
+    - Update the python code in the Lambda (using powerOfNumbersWithSaveItDB.py) like below:
+
+      - ![powerOfNumbersWithSaveItDB.png](powerOfNumbersWithSaveItDB.png) 
 
 ### Resources
 
