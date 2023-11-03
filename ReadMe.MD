@@ -4,15 +4,15 @@
 
 A simple web application that takes the base and exponent numbers and finds the result using the following AWS services.
 
-**AWS Amplify**: Build full-stack web and mobile apps 
+- **AWS Amplify**: Build full-stack web and mobile apps 
 
-**Amazon API Gateway**: It is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs.
+- **Amazon API Gateway**: It is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs.
 
-**AWS Lambda**: It is a cloud service that lets you run code without provisioning or managing servers (serverless).
+- **AWS Lambda**: It is a cloud service that lets you run code without provisioning or managing servers (serverless).
 
-**Amazon DynamoDB**: Serverless, NoSQL database.
+- **Amazon DynamoDB**: Serverless, NoSQL database.
 
-**AWS IAM**:  Manage identities and access to AWS services and resources
+- **AWS IAM**:  Manage identities and access to AWS services and resources
 
 
 
