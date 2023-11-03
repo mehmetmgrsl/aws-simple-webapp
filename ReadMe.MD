@@ -1,8 +1,8 @@
-# WIP
-
 ### Simple Web App
 
 A simple web application that takes the base and exponent numbers and finds the result using the following AWS services.
+
+![architecture.png](architecture.png) 
 
 - **AWS Amplify**: Build full-stack web and mobile apps 
 
