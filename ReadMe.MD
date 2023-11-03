@@ -30,6 +30,18 @@ A simple web application that takes the base and exponent numbers and finds the 
 
       - ![powerOfNumbers.png](powerOfNumbers.png) 
 
+    - Press the "Deploy" to deploy the code.S
+
+5. Create a Rest API using Amazon API Gateway
+
+  - ![restAPI.png](restAPI.png) 
+
+  - Create a method and call the lambda function
+
+    - ![createMethod.png](createMethod.png)
+
+  - Finally Deploy the API.
+   
 
 
 ### Resources
