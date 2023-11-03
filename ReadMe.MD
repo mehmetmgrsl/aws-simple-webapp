@@ -40,6 +40,8 @@ A simple web application that takes the base and exponent numbers and finds the 
 
     - ![createMethod.png](createMethod.png)
 
+  - Select resource and enable CORS -> https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors-console.html
+
   - Finally Deploy the API.
    
 6. Save the result into the DynamoDB 
@@ -55,6 +57,20 @@ A simple web application that takes the base and exponent numbers and finds the 
     - Update the python code in the Lambda (using powerOfNumbersWithSaveItDB.py) like below:
 
       - ![powerOfNumbersWithSaveItDB.png](powerOfNumbersWithSaveItDB.png) 
+
+7. Update index.html to reach the API Gateway
+
+  - Replace "YOUR API GATEWAY ENDPOINT" value in the index.html with your API Gateway's endpoint.
+
+    - ![api-gw-endpoint.png](api-gw-endpoint.png)
+
+    - Create a zip file of the index.html again.
+
+    - Deploy the zip file (index.zip) using AWS amplify again.
+
+    - Test it again
+      
+       -  ![test.png](test.png)
 
 ### Resources
 
