@@ -72,6 +72,18 @@ A simple web application that takes the base and exponent numbers and finds the 
       
        -  ![test.png](test.png)
 
+8. After completing your work/test, delete all the AWS resources that you have created:
+
+  - Delete the app from AWS Amplify
+
+  - Delete the table from DynamoDB
+
+  - Delete the function from Lambda
+
+  - Delete the API from API Gateway
+
+  - Delete the roles from IAM
+
 ### Resources
 
 1. [AWS Project - Architect and Build an End-to-End AWS Web Application from Scratch, Step by Step - Tiny Technical Tutorials](https://www.youtube.com/watch?v=7m_q1ldzw0U)
